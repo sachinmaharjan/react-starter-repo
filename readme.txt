@@ -7,5 +7,5 @@ npm install
 
 glup
 
-Load os should load automatically:
+Load or should load automatically:
 http://localhost:3001/
